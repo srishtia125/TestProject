@@ -1,0 +1,11 @@
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\config\CustomerDataConfig.java
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\entity\CustomerDetails.java
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\exception\CustomerNotFoundException.java
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\service\CustomerService.java
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\config\SwaggerConfiguration.java
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\application\ApplicationServer.java
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\controller\CustomerController.java
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\entity\PhoneDetail.java
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\dto\PhoneDetailsDto.java
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\exception\PhoneNumberNotFoundException.java
+D:\Repo\TestProject\assignment\src\main\java\com\digital\and\exception\PhoneAlreadyActivatedException.java
